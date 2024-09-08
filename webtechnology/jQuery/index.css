@@ -1,1 +1,14 @@
-body{background-color: blueviolet;}
+body
+{
+    background-color: blueviolet;
+}
+
+.textcolor{
+    color: aqua;
+    background-color: beige;
+    font-size: large;
+}
+.align{
+    text-align: center;
+}
+
